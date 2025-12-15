@@ -1,0 +1,53 @@
+body {
+    font-family: 'Sedgwick Ave',m cursive;
+}
+
+.Title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333333;
+    text-align: center;
+    font-family: 'Sedgwick Ave'm cursive;
+}
+
+.Subtitle {
+    font-size: 20px;
+    font-weight: 600;
+    color: #666666;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 40px;
+}
+
+.Img1 {
+
+    width: 1300px;
+    height: 800px;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.Container_Img1 {
+    text-align: center;
+    padding: 20px;
+    margin-top: -175px;
+}
+
+.Container_Img2 {
+    text-align: center;
+    padding: 20px;
+}
+
+.z-front{
+    z-index: 10;
+    position: relative;
+}
+
+.background-color{
+    background-color: #e6e6e6;
+}
+
+.cabecera{
+    background-color: #e6e6e6;
+}
